@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/Users/User/Desktop/UPPRPO/Task1/tests/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/Users/User/Desktop/UPPRPO/Task1/tests/_deps/googletest-subbuild/CMakeFiles/83a8c84a689a42a9d6745635d5c6a279/googletest-populate.rule
+C:/Users/User/Desktop/UPPRPO/Task1/tests/_deps/googletest-subbuild/CMakeFiles/89c51126cd9b547c122010465e9e90b0/googletest-populate-complete.rule
+C:/Users/User/Desktop/UPPRPO/Task1/tests/_deps/googletest-subbuild/CMakeFiles/7da91c0b9430733ace28c467604513ad/googletest-populate-build.rule
+C:/Users/User/Desktop/UPPRPO/Task1/tests/_deps/googletest-subbuild/CMakeFiles/7da91c0b9430733ace28c467604513ad/googletest-populate-configure.rule
+C:/Users/User/Desktop/UPPRPO/Task1/tests/_deps/googletest-subbuild/CMakeFiles/7da91c0b9430733ace28c467604513ad/googletest-populate-download.rule
+C:/Users/User/Desktop/UPPRPO/Task1/tests/_deps/googletest-subbuild/CMakeFiles/7da91c0b9430733ace28c467604513ad/googletest-populate-install.rule
+C:/Users/User/Desktop/UPPRPO/Task1/tests/_deps/googletest-subbuild/CMakeFiles/7da91c0b9430733ace28c467604513ad/googletest-populate-mkdir.rule
+C:/Users/User/Desktop/UPPRPO/Task1/tests/_deps/googletest-subbuild/CMakeFiles/7da91c0b9430733ace28c467604513ad/googletest-populate-patch.rule
+C:/Users/User/Desktop/UPPRPO/Task1/tests/_deps/googletest-subbuild/CMakeFiles/7da91c0b9430733ace28c467604513ad/googletest-populate-test.rule
+C:/Users/User/Desktop/UPPRPO/Task1/tests/_deps/googletest-subbuild/CMakeFiles/7da91c0b9430733ace28c467604513ad/googletest-populate-update.rule
